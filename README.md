@@ -1,4 +1,4 @@
-#UIView + ExclusiveTouch
+# UIView + ExclusiveTouch
 
 Adding this category (on UIView) to your project would make sure only one view would respond even when user touches 
 more than one view simultaneously. 
